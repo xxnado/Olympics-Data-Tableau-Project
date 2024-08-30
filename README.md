@@ -25,7 +25,7 @@ In all screenshots the filters are on default, besides the year (2016) and the s
 
 ## How to use
 
-Download the [Workbook - Olympics.twbx] workbook file and open it in Tableau.
+Download the 'Workbook - Olympics.twbx' workbook file and open it in Tableau.
 
 In the data folder, you can find the datasets used in the project. The data in 'olympics_cleaned.csv' was pre-processed in a separate Python notebook.
 
