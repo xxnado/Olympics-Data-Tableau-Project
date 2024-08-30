@@ -1,7 +1,7 @@
 # Olympics Data - Tableau Project
 
 ## Overview
-In our Business Analytics Master's program at Nova School of Business and Economics, my team and I completed a project for our Data Visualization course. We were given Olympic data spanning from 1896 to 2016 and the task to present the data in a meaningful way. 
+In our Business Analytics Master's program at Nova School of Business and Economics, my team and I completed a project for our Data Visualization course. We were given Olympic data spanning from 1896 to 2016, along with the task of presenting it in a meaningful way.
 
 Data visualization involves crafting a narrative, so we added additional datasets on GDP, the World Happiness Index, and Population Sizes to explore three main questions:
 
