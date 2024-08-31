@@ -1,9 +1,9 @@
 # Olympics Data - Tableau Project
 
 ## Overview
-In our Business Analytics Master's program at Nova School of Business and Economics, my team and I completed a project for our Data Visualization course. We were given Olympic data spanning from 1896 to 2016, along with the task of presenting it in a meaningful way.
+This Tableau project was developed as part of a group project for the "Data Visualization for Business Analytics" course at NOVA School of Business and Economics. A dataset on Olympic data spanning from 1896 to 2016 was given, along with the task of presenting it in a meaningful way.
 
-Data visualization involves crafting a narrative, so we added additional datasets on GDP, the World Happiness Index, and Population Sizes to explore three main questions:
+Data visualization involves crafting a narrative, so by adding additional datasets on GDP, the World Happiness Index, and Population Sizes three main questions are explored:
 
 1. How does a country's economic development impact the athletic performance of its athletes?
 2. What is the relationship between a nation's athletic performance and its population size and Happiness Index?
@@ -12,7 +12,7 @@ Data visualization involves crafting a narrative, so we added additional dataset
 
 ## Get a First Impression 
 
-Here are screenshots of the three dashboards we created (for questions 1-3) to give you a first impression before downloading any files.
+Here are screenshots of the three dashboards created (for questions 1-3) to give you a first impression before downloading any files.
 
 
 [Dashboard 1 - Screenshot](additionalContent/Dashboard1.png)
