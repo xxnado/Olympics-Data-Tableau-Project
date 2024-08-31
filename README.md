@@ -1,7 +1,7 @@
 # Olympics Data - Tableau Project
 
 ## Overview
-This Tableau project was developed as part of a group project for the "Data Visualization for Business Analytics" course at NOVA School of Business and Economics. A dataset on Olympic data spanning from 1896 to 2016 was given, along with the task of presenting it in a meaningful way.
+This Tableau project was developed as part of a group project for the "Data Visualization for Business Analytics" course at NOVA School of Business and Economics. Data on the Olympic Games (summer and winter) between 1896 an 2016 was given, along with the task of presenting it in a meaningful way.
 
 Data visualization involves crafting a narrative, so by adding additional datasets on GDP, the World Happiness Index, and Population Sizes three main questions are explored:
 
