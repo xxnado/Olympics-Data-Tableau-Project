@@ -27,7 +27,7 @@ In all screenshots the filters are on default, besides the year (2016) and the s
 
 Download the `Workbook - Olympics.twbx` workbook file and open it in Tableau.
 
-In the data folder, you can find the datasets used in the project. The data in `olympics cleaned.csv` was pre-processed in a separate Python notebook.
+In the data folder, you can find the datasets used in the project. The data in `olympics cleaned.csv` was pre-processed in a separate Jupyter notebook.
 
 However, you don’t need the files in the data folder to run the .twbx workbook file!
 
